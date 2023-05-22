@@ -1,0 +1,11 @@
+../Core/Src/machine_control.c:19:6:intialize_machine_states	4	static
+../Core/Src/machine_control.c:23:6:machine_states	8	static
+../Core/Src/machine_control.c:42:6:led_off	8	static
+../Core/Src/machine_control.c:46:6:led_blink_5hz	8	static
+../Core/Src/machine_control.c:55:6:led_blink_2hz	8	static
+../Core/Src/machine_control.c:63:6:led_blink_1hz	8	static
+../Core/Src/machine_control.c:71:6:led_blink_05hz	8	static
+../Core/Src/machine_control.c:79:6:change_to_next_state	264	static
+../Core/Src/machine_control.c:113:14:re_init_comunication	8	static
+../Core/Src/machine_control.c:119:6:compare_string	8	static
+../Core/Src/machine_control.c:154:6:comand_verify	264	static
